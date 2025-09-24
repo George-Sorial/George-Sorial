@@ -29,8 +29,9 @@ Here are some of the things I’ve been working on:
 ---
 
 ## 📊 GitHub at a Glance
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?George-Sorial=George-Sorial&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?George-Sorial=George-Sorial&layout=compact&theme=tokyonight)
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=George-Sorial&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Sorial&layout=compact&theme=tokyonight)
+
 
 ---
 
