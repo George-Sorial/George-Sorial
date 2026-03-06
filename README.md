@@ -8,13 +8,13 @@ This page is a hub for my projects and ways to connect with me.
 ## 🚀 Projects
 Here are some of the things I’ve been working on:
 
-- 🤖 [Robotics Coursework & Experiments](https://github.com/yourusername/robotics-lab)  
+- 🤖 [Robotics Coursework & Experiments](https://github.com/George-Sorial/robotics-lab)  
   A collection of algorithms, simulations, and demos from my integrated master’s in Robotics Engineering.  
 
-- 🎮 [2D Isometric Unity Game](https://github.com/yourusername/unity-isometric-game)  
+- 🎮 [2D Isometric Unity Game](https://github.com/George-Sorial/unity-isometric-game)  
   A maze-inspired procedural Unity project with custom player/monster systems.
 
-- 💡 [Tutor Tools](https://github.com/yourusername/tutor-tools)  
+- 💡 [Tutor Tools](https://github.com/George-Sorial/tutor-tools) 
   Teaching materials, exercises, and code snippets I use to help students learn faster.
 
 ➡️ See more projects on my [GitHub repositories](https://github.com/yourusername?tab=repositories).
@@ -26,13 +26,6 @@ Here are some of the things I’ve been working on:
 - **LinkedIn:** [www.linkedin.com/in/george-sorial-me](https://linkedin.com/in/george-sorial-me)  
 - **Portfolio Website:** [George-Sorial.github.io](https://George-Sorial.github.io) (coming soon!)  
 
----
 
-## 📊 GitHub at a Glance
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=George-Sorial&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Sorial&layout=compact&theme=tokyonight)
-
-
----
 
 ⭐️ Thanks for stopping by! Feel free to explore my projects and reach out if you’d like to collaborate.
