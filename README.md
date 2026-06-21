@@ -4,13 +4,13 @@
 ## 🚀 Projects
 Here are some of the things I've been working on:
 
-- 🤖 [Robotics Coursework & Experiments](https://github.com/George-Sorial/robotics-lab)  
+- [Robotics Coursework & Experiments](https://github.com/George-Sorial/robotics-lab)  
   A collection of algorithms, simulations, and demos from my integrated master's in Robotics Engineering.  
 
-- 🎮 [2D Isometric Unity Game](https://github.com/George-Sorial/unity-isometric-game)  
-  A maze-inspired procedural Unity project with custom player/monster systems.
+- [Autonomous Obstacle Course Robot](https://github.com/George-Sorial/autonomous-obstacle-course-robot)  
+  An Autonomous Obstacle Course Robot which could complete a dynamic obstacle course in 23.4s.
 
-- 💡 [Tutor Tools](https://github.com/George-Sorial/tutor-tools)  
+- [Tutor Tools](https://github.com/George-Sorial/tutor-tools)  
   Teaching materials, exercises, and code snippets I use to help students learn faster.
 
 ## 🌐 Socials:
